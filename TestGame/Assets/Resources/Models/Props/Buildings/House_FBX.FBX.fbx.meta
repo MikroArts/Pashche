@@ -8,107 +8,107 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: 02 - Default
-    second: {fileID: 2100000, guid: 9ccfb50f0ece19b4e9248884ccf3a9a4, type: 2}
+    second: {fileID: 2100000, guid: f153c1631fc16714487fbe03d551d9e7, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: 03 - Default
-    second: {fileID: 2100000, guid: e6a84af828a325246b079fb447fddccb, type: 2}
+    second: {fileID: 2100000, guid: af64902c3a54e4645a78aacf93dac726, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: 04 - Default
-    second: {fileID: 2100000, guid: bef709a676d1e3242a62ba61dd44a02f, type: 2}
+    second: {fileID: 2100000, guid: c3889613b2dd8bb43b5828e5a378d34c, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: 05 - Default
-    second: {fileID: 2100000, guid: 0ff850a3fd4a29846b199db947e8160d, type: 2}
+    second: {fileID: 2100000, guid: 970a8e38f3ab0824c93fdaa29a55b6a7, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: 07 - Default
-    second: {fileID: 2100000, guid: 8cc5f5b6c4ad0bc4ba882941f96ecdf1, type: 2}
+    second: {fileID: 2100000, guid: 8ae54dd981c81144788e9b95a4bb581c, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: 08 - Default
-    second: {fileID: 2100000, guid: a8e9da3c1f097d84cab4e987a7a11821, type: 2}
+    second: {fileID: 2100000, guid: e39c974411e061742ad0f1ab5e8f576a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: 09 - Default
-    second: {fileID: 2100000, guid: 72c5a6562961a594796c2ffbd75532e3, type: 2}
+    second: {fileID: 2100000, guid: dbd20981516985b42b1c419a48cc5914, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: 13 - Default
-    second: {fileID: 2100000, guid: 99e846271484ab648844712331134bc6, type: 2}
+    second: {fileID: 2100000, guid: dc446d61bf001814db9b6052bf689313, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: 14 - Default
-    second: {fileID: 2100000, guid: 3976cb73b899312418c1e9a1741523ac, type: 2}
+    second: {fileID: 2100000, guid: 8c7001d02ad6d3a4aaba2934d98fd984, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: 15 - Default
-    second: {fileID: 2100000, guid: e5ec69c11ea6dfc46a4fbbdc271f6932, type: 2}
+    second: {fileID: 2100000, guid: a079732c104cebd4badc5962b7bc57a3, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: 23 - Default
-    second: {fileID: 2100000, guid: 065538ee1d0a07e49b245b1d2f553ae5, type: 2}
+    second: {fileID: 2100000, guid: 9222355ed4107f243a6d2340e08a86ab, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: 24 - Default
-    second: {fileID: 2100000, guid: b818d62bfcbb4f94fb4767e461b856b5, type: 2}
+    second: {fileID: 2100000, guid: ea032ecf104c20a4da1e487e7666d64f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: 'Material #750'
-    second: {fileID: 2100000, guid: 52e6b8f3a6da13847b571aaa947553d2, type: 2}
+    second: {fileID: 2100000, guid: b18327e99473aad4d95834b1f896d565, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: 'Material #751'
-    second: {fileID: 2100000, guid: 1c332c3009b7cb944a53c4032344bb3e, type: 2}
+    second: {fileID: 2100000, guid: 93e7a741cfde9cc4f90ee04def914372, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: 'Material #752'
-    second: {fileID: 2100000, guid: c4ce5bbfdc250684c8bd7fd8cbf16099, type: 2}
+    second: {fileID: 2100000, guid: c6cefd52520addb4c8e28560025b4954, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: 'Material #753'
-    second: {fileID: 2100000, guid: c35418736499421499b1ba11b062473f, type: 2}
+    second: {fileID: 2100000, guid: 4bfd375b79405fa48b51c5d1caa5764b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: 'Material #754'
-    second: {fileID: 2100000, guid: 6ca454b4c46805241a970d47a0a7a9d1, type: 2}
+    second: {fileID: 2100000, guid: 6e2654afc7bb7e346a6b1ad9d1952eb5, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: 'Material #763'
-    second: {fileID: 2100000, guid: cc71c28d96753b34db3a5538a72bfe59, type: 2}
+    second: {fileID: 2100000, guid: 7cc64bca5ccca2e4bbb4c6f308e54b4a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: branch
-    second: {fileID: 2100000, guid: 43445eed654b7d3488a8e0548ac461e1, type: 2}
+    second: {fileID: 2100000, guid: cc003cc0776e55a459d8075da322d256, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: leaf_adult
-    second: {fileID: 2100000, guid: 2d5da04917f86ad42afccada85be906e, type: 2}
+    second: {fileID: 2100000, guid: 5b5a0cd62489ab3448a8738c32549263, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: leaf_young
-    second: {fileID: 2100000, guid: 5ebb7d163e195014e9b49afc2c58209e, type: 2}
+    second: {fileID: 2100000, guid: 29e2dda3fa1f2464e841fd8ef5126082, type: 2}
   materials:
     importMaterials: 1
     materialName: 1
@@ -136,17 +136,17 @@ ModelImporter:
     extraExposedTransformPaths: []
     extraUserProperties: []
     clipAnimations: []
-    isReadable: 0
+    isReadable: 1
   meshes:
     lODScreenPercentages: []
     globalScale: 1
-    meshCompression: 0
+    meshCompression: 3
     addColliders: 0
     useSRGBMaterialColor: 1
-    importVisibility: 1
-    importBlendShapes: 1
-    importCameras: 1
-    importLights: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
