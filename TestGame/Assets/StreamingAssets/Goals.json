@@ -1,0 +1,20 @@
+[
+  {
+    "GoalId": 1,
+    "Title": "Opala",
+    "Desc": "Test Opala",
+    "isComplete": true
+  },
+  {
+    "GoalId": 2,
+    "Title": "Idemo",
+    "Desc": "Test Idemo",
+    "isComplete": false
+  },
+  {
+    "GoalId": 3,
+    "Title": "Bravo",
+    "Desc": "Test Bravo",
+    "isComplete": true
+  }
+]

@@ -1,0 +1,228 @@
+[
+  {
+    "questId": 1,
+    "title": "Where is my dog?",
+    "description": "<b>Me</b>: - Excuse me! Did You see my dog?\n<b>Djuro</b>: - No I did not! But... You can ask Milivoje, maybe he knows something. He is always hanging around by that field!\n<b>Me</b>: - OK, Djuro! Thank You!",
+    "goals": [
+      {
+        "goalType": "LocationQuest",
+        "goalDescription": "Go talk to Milivoje!",
+        "currentAmount": 0,
+        "requiredAmount": 1,
+        "goalTag": "Milivoje",
+        "isComplete": false
+      },
+      {
+        "goalType": "CollectionQuest",
+        "goalDescription": "Go to Hell!!!",
+        "currentAmount": 0,
+        "requiredAmount": 1,
+        "goalTag": "Test",
+        "isComplete": false
+      }
+    ],
+    "nextQuest": 0,
+    "sourceNPC": { "NpcName": "Djuro" },
+    "recieveNPC": { "NpcName": "Persa" },
+    "progress": 1,
+    "experienceReward": 45,
+    "coinReward": 15
+  },
+  {
+    "questId": 2,
+    "title": "Mrgud Smarach!",
+    "description": "<b>Me</b>: - Hello, can I ask You somethi....\n<b>Mrgud</b>: - Go to HELL, twice!!!",
+    "goals": [
+      {
+        "goalType": "LocationQuest",
+        "goalDescription": "Go to Hell two times",
+        "currentAmount": 0,
+        "requiredAmount": 2,
+        "goalTag": "Test",
+        "isComplete": false
+      }
+    ],
+    "nextQuest": 0,
+    "sourceNPC": { "NpcName": "Blagoje" },
+    "recieveNPC": { "NpcName": "Jerina" },
+    "progress": 1,
+    "experienceReward": 50,
+    "coinReward": 6
+  },
+  {
+    "questId": 3,
+    "title": "Third quest",
+    "description": "Description for third quest",
+    "goals": [
+      {
+        "goalType": "LocationQuest",
+        "goalDescription": "Test",
+        "currentAmount": 0,
+        "requiredAmount": 1,
+        "goalTag": "Test",
+        "isComplete": false
+      }
+    ],
+    "nextQuest": 0,
+    "sourceNPC": { "NpcName": "Blagoje" },
+    "recieveNPC": { "NpcName": "Djuro" },
+    "progress": 0,
+    "experienceReward": 60,
+    "coinReward": 7
+  },
+  {
+    "questId": 4,
+    "title": "Fourth quest",
+    "description": "Description for fourth quest",
+    "goals": [
+      {
+        "goalType": "LocationQuest",
+        "goalDescription": "Test",
+        "currentAmount": 0,
+        "requiredAmount": 1,
+        "goalTag": "Test",
+        "isComplete": false
+      }
+    ],
+    "nextQuest": 0,
+    "sourceNPC": { "NpcName": "Radoje" },
+    "recieveNPC": { "NpcName": "Vidoje" },
+    "progress": 1,
+    "experienceReward": 85,
+    "coinReward": 10
+  },
+  {
+    "questId": 5,
+    "title": "Fifth quest",
+    "description": "Description for fith quest",
+    "goals": [
+      {
+        "goalType": "LocationQuest",
+        "goalDescription": "Go to that Green oval thing.",
+        "currentAmount": 0,
+        "requiredAmount": 1,
+        "goalTag": "Test",
+        "isComplete": false
+      }
+    ],
+    "nextQuest": 0,
+    "sourceNPC": { "NpcName": "Vidoje" },
+    "recieveNPC": { "NpcName": "Dusan" },
+    "progress": 1,
+    "experienceReward": 85,
+    "coinReward": 5
+  },
+  {
+    "questId": 6,
+    "title": "Sixth quest",
+    "description": "Description for sixth quest",
+    "goals": [
+      {
+        "goalType": "LocationQuest",
+        "goalDescription": "Go to Milivoje",
+        "currentAmount": 0,
+        "requiredAmount": 1,
+        "goalTag": "Milivoje",
+        "isComplete": false
+      },
+      {
+        "goalType": "LocationQuest",
+        "goalDescription": "Go to that green Sphere",
+        "currentAmount": 0,
+        "requiredAmount": 2,
+        "goalTag": "Test",
+        "isComplete": false
+      }
+    ],
+    "nextQuest": 0,
+    "sourceNPC": { "NpcName": "Radoje" },
+    "recieveNPC": { "NpcName": "Bogoljub" },
+    "progress": 0,
+    "experienceReward": 223,
+    "coinReward": 13
+  },
+  {
+    "questId": 7,
+    "title": "Seventh quest",
+    "description": "Description for fourth quest",
+    "goals": [
+      {
+        "goalType": "LocationQuest",
+        "goalDescription": "Test",
+        "currentAmount": 0,
+        "requiredAmount": 1,
+        "goalTag": "Test",
+        "isComplete": false
+      }
+    ],
+    "nextQuest": 0,
+    "sourceNPC": { "NpcName": "Milka" },
+    "recieveNPC": { "NpcName": "Selimir" },
+    "progress": 1,
+    "experienceReward": 98,
+    "coinReward": 22
+  },
+  {
+    "questId": 8,
+    "title": "Eight quest",
+    "description": "Description for Eight quest",
+    "goals": [
+      {
+        "goalType": "LocationQuest",
+        "goalDescription": "Go to Milivoje",
+        "currentAmount": 0,
+        "requiredAmount": 1,
+        "goalTag": "Milivoje",
+        "isComplete": false
+      }
+    ],
+    "nextQuest": 0,
+    "sourceNPC": { "NpcName": "Selimir" },
+    "recieveNPC": { "NpcName": "Vojimir" },
+    "progress": 1,
+    "experienceReward": 23,
+    "coinReward": 11
+  },
+  {
+    "questId": 9,
+    "title": "Ninth quest",
+    "description": "Description for Ninth quest",
+    "goals": [
+      {
+        "goalType": "LocationQuest",
+        "goalDescription": "Go to Milivoje",
+        "currentAmount": 0,
+        "requiredAmount": 1,
+        "goalTag": "Milivoje",
+        "isComplete": false
+      }
+    ],
+    "nextQuest": 0,
+    "sourceNPC": { "NpcName": "Jordo" },
+    "recieveNPC": { "NpcName": "Milivoje" },
+    "progress": 1,
+    "experienceReward": 95,
+    "coinReward": 11
+  },
+  {
+    "questId": 10,
+    "title": "Fourth quest",
+    "description": "Description for fourth quest",
+    "goals": [
+      {
+        "goalType": "LocationQuest",
+        "goalDescription": "Go to Milivoje",
+        "currentAmount": 0,
+        "requiredAmount": 1,
+        "goalTag": "Milivoje",
+        "isComplete": false
+      }
+    ],
+    "nextQuest": 0,
+    "sourceNPC": { "NpcName": "Selimir" },
+    "recieveNPC": { "NpcName": "Vojimir" },
+    "progress": 0,
+    "experienceReward": 143,
+    "coinReward": 29
+  }
+]

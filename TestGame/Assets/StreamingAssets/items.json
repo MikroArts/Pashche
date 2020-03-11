@@ -1,0 +1,149 @@
+[
+  {
+    "itemId": 1,
+    "itemName": "Apple",
+    "spriteName": "apple",
+    "itemPoints": 10
+  },
+  {
+    "itemId": 2,
+    "itemName": "Arrow",
+    "spriteName": "arrow"
+  },
+  {
+    "itemId": 3,
+    "itemName": "Banana",
+    "spriteName": "banana",
+    "itemPoints": 8
+  },
+  {
+    "itemId": 4,
+    "itemName": "Beer",
+    "spriteName": "beer",
+    "itemPoints": 9
+  },
+  {
+    "itemId": 5,
+    "itemName": "Book",
+    "spriteName": "book"
+  },
+  {
+    "itemId": 6,
+    "itemName": "Bow",
+    "spriteName": "bow"
+  },
+  {
+    "itemId": 7,
+    "itemName": "Bread",
+    "spriteName": "bread",
+    "itemPoints": 5
+  },
+  {
+    "itemId": 8,
+    "itemName": "Cheese",
+    "spriteName": "cheese",
+    "itemPoints": 11
+  },
+  {
+    "itemId": 9,
+    "itemName": "Ham",
+    "spriteName": "ham",
+    "itemPoints": 15
+  },
+  {
+    "itemId": 10,
+    "itemName": "Hp",
+    "spriteName": "hp",
+    "itemPoints": 50
+  },
+  {
+    "itemId": 11,
+    "itemName": "Lemon",
+    "spriteName": "lemon",
+    "itemPoints": 12
+  },
+  {
+    "itemId": 12,
+    "itemName": "Orange",
+    "spriteName": "orange",
+    "itemPoints": 11
+  },
+  {
+    "itemId": 13,
+    "itemName": "Pie",
+    "spriteName": "pie",
+    "itemPoints": 11
+  },
+  {
+    "itemId": 14,
+    "itemName": "Pineapple",
+    "spriteName": "pineapple",
+    "itemPoints": 12
+  },
+  {
+    "itemId": 15,
+    "itemName": "Quiver",
+    "spriteName": "quiver"
+  },
+  {
+    "itemId": 16,
+    "itemName": "Shield",
+    "spriteName": "shield"
+  },
+  {
+    "itemId": 17,
+    "itemName": "Staff",
+    "spriteName": "staff"
+  },
+  {
+    "itemId": 18,
+    "itemName": "Stew",
+    "spriteName": "stew",
+    "itemPoints": 9
+  },
+  {
+    "itemId": 19,
+    "itemName": "Sword",
+    "spriteName": "sword"
+  },
+  {
+    "itemId": 20,
+    "itemName": "Watermelon",
+    "spriteName": "watermelon",
+    "itemPoints": 10
+  },
+  {
+    "itemId": 21,
+    "itemName": "Flower11",
+    "spriteName": "flower11",
+    "itemPoints": 25
+  },
+  {
+    "itemId": 22,
+    "itemName": "Flower12",
+    "spriteName": "flower12",
+    "itemPoints": 30
+  },
+  {
+    "itemId": 23,
+    "itemName": "Mushroom",
+    "spriteName": "mushroom",
+    "itemPoints": 5
+  },
+  {
+    "itemId": 24,
+    "itemName": "Scroll",
+    "spriteName": "scroll"
+  },
+  {
+    "itemId": 25,
+    "itemName": "Map",
+    "spriteName": "map"
+  },
+  {
+    "itemId": 26,
+    "itemName": "Carrot",
+    "spriteName": "carrot",
+    "itemPoints": 8
+  }
+]
